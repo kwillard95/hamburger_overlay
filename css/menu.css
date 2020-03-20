@@ -117,6 +117,7 @@
   width: 200vw;
   height: 200vw;
   display: flex;
+  /* Allows the overlay to overflow the container */
   flex: none;
   align-items: center;
   justify-content: center;
